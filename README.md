@@ -32,7 +32,7 @@ Student suggested research related to visual analytics:
 
  
 
-Meetings will be weekly for an hour over Teams 
+Meetings will be held every Tuesday at 6pm for an hour over Teams
 
  
 
